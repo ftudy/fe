@@ -1,5 +1,5 @@
 {
-  "name": "guest-app",
+  "name": "guest",
   "version": "0.1.0",
   "private": true,
   "scripts": {
